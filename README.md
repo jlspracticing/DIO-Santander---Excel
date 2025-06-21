@@ -11,3 +11,9 @@ O primeira passo foi construir o menu lateral com opção de hiperlinks, possibi
 Depois foi sendo construído as páginas e formatações.
 Planilha do projeto 2 anexada.
 Dentro da planilha somente é possível modificar os campos permitidos.
+
+
+DESAFIO 3: Aprenda a criar um dashboard de vendas, com foco na organização e visualização de dados. O objetivo é transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficaz do desempenho de vendas e a tomada de decisões baseadas em dados.
+Dentro deste projeto foi criado um dashbord com base em vendas do Xbox, filtrando as assinaturas por período, renovação e soma de vendas.
+A intenção do dashboard é mostrar os dados de forma clara e visual, permitindo a tomada de decisão de superiores da empresa considerando o seu atual cenário de vendas.
+Planilha do projeto 3 anexada neste diretório.
